@@ -5,10 +5,12 @@
 Go to the NFT Section
 ![Nft image](./nft.png)
 
-Video: https://youtu.be/5BE_pei7DQY
-Discord ID: lovelace#7474
-Person of contact: heypran (github) | lovelace#7474 (discord)
-UD registered email address: (personal info, available via DM)
+- Project Name: thinkmoon.io
+- Link:https://github.com/thinkmoon-labs/thinkmoon-nft-package
+- Video: https://youtu.be/5BE_pei7DQY
+- Discord ID: lovelace#7474
+- Person of contact: heypran (github) | lovelace#7474 (discord)
+- UD registered email address: (personal info, available via DM)
 
 ## Available Scripts
 
