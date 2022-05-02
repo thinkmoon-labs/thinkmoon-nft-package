@@ -5,11 +5,10 @@
 Go to the NFT Section
 ![Nft image](./nft.png)
 
-Video:https://youtu.be/5BE_pei7DQY
-
+Video: https://youtu.be/5BE_pei7DQY
 Discord ID: lovelace#7474
 Person of contact: heypran (github) | lovelace#7474 (discord)
-UD registered email address: (available via DM)
+UD registered email address: (personal info, available via DM)
 
 ## Available Scripts
 
@@ -23,6 +22,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+Note: You will need to create an `.env` file in the root with NFT url & key if applicable
+
+```
+REACT_APP_NFT_URL:<your url>
+
+REACT_APP_KEY:<your key>
+```
+
 #### `yarn build`
 
 Builds the app for production to the `build` folder.\
@@ -30,7 +37,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 **Note: This is an NFT package used by [thinkmoon.io](https://www.thinkmoon.io)!**
